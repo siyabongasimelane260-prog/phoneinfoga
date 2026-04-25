@@ -24,3 +24,4 @@ PhoneInfoga is one of the most advanced tools to scan international phone number
 - Does not allow to "track" a phone or its owner in real time
 - Does not allow to get the precise phone location
 - Does not allow to hack a phone
+phoneinfoga scan -n 78155600
